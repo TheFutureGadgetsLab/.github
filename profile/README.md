@@ -8,3 +8,4 @@ Just a bunch of friends making stuff
 - Head Goblin: [@benpm](https://github.com/orgs/TheFutureGadgetsLab/people/benpm)
 - Webdev in Chief: [@bensonalec](https://github.com/orgs/TheFutureGadgetsLab/people/bensonalec)
 - Official Mascot: [@juarezpjx](https://github.com/orgs/TheFutureGadgetsLab/people/juarezpjx)
+- Lord of GPUs: [@jdcia](https://github.com/orgs/TheFutureGadgetsLab/people/jdcia)
