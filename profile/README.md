@@ -3,7 +3,7 @@
 ### About Us
 Just a bunch of friends making stuff
 
-- Math Loser/ Interrim Webdev in Chief: [@haydn-jones](https://github.com/haydn-jones)
+- Math Loser/ Machine Instructor: [@haydn-jones](https://github.com/haydn-jones)
 - Loud Norwegian and Head of Interior Design: [@ohunter](https://github.com/ohunter)
 - Head Goblin: [@benpm](https://github.com/benpm)
 - ~~Webdev in Chief~~/Vice Admiral Webdev-: [@bensonalec](https://github.com/bensonalec)
