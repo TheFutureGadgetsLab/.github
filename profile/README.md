@@ -9,4 +9,4 @@ Just a bunch of friends making stuff
 - ~~Webdev in Chief~~/Vice Admiral Webdev-: [@bensonalec](https://github.com/bensonalec)
 - Official Mascot: [@juarezpjx](https://github.com/juarezpjx)
 - Lord of GPUs: [@jdcia](https://github.com/jdcia)
-- Eddy Bauer Catalogue Model/Prodigal Webdev in Chief [@keajone](https://github.com/keajone)
+- Eddy Bauer Catalogue Model/Upcoming Webdev in Chief [@keajone](https://github.com/keajone)
