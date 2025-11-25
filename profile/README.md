@@ -8,4 +8,4 @@ Just a bunch of friends making stuff
 - [@benpm](https://github.com/benpm)
 - [@bensonalec](https://github.com/bensonalec)
 - [@juarezpjx](https://github.com/juarezpjx)
-- [@mikecoal23] (https://github.com/mikecoal23)
+- [@mikecoal23](https://github.com/mikecoal23)
